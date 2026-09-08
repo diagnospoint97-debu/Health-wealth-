@@ -1,0 +1,6 @@
+{
+  "name": "Health And Wellness",
+  "description": "A premium business demo website for Health And Wellness, offering professional guidance and appointment booking across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
